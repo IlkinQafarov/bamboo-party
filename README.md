@@ -7,4 +7,5 @@
 <li>Towns-and-Towers - готов</li>
 <li>ApothicAttribute - готов</li>
 <li>Bookshelf - готов</li>
+<li>Paladin's Furniture - 45% готов</li>
 </ol>
