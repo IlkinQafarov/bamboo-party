@@ -1,9 +1,10 @@
 # Bamboo Party
-
-## Моды настроенные специально для lowmmrparty
-
-1. Apotheosis - готов
-2. DungeonsArise - готов
-3. Towns-and-Towers - готов
-4. ApothicAttribute - готов
-5. Bookshelf - готов
+<p><h2>Описание:</h2></p>
+<h2>Переведенные моды:</h2>
+<ol>
+<li>Apotheosis - готов</li>
+<li>DungeonsArise - готов</li>
+<li>Towns-and-Towers - готов</li>
+<li>ApothicAttribute - готов</li>
+<li>Bookshelf - готов</li>
+</ol>
